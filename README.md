@@ -77,7 +77,7 @@ assets/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/islami.git
+git clone https://github.com/Mo2men3Li/islami.git
 cd islami
 flutter pub get
 flutter run
@@ -110,7 +110,7 @@ All screens, colors, and typography follow the Figma design:
 ## 👤 Author
 
 **Mo'men Ali**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [Mo2men3Li](https://github.com/Mo2men3Li)
 
 ---
 
