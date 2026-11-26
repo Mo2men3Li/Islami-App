@@ -5,6 +5,14 @@ import 'app_colors.dart';
 
 class MyTheme {
   static final ThemeData myTheme = ThemeData(
+    bottomNavigationBarTheme: BottomNavigationBarThemeData(
+      showSelectedLabels: true,
+      selectedItemColor: AppColors.whiteColor,
+      type: BottomNavigationBarType.fixed,
+      backgroundColor: AppColors.primaryColor,
+      showUnselectedLabels: false,
+    ),
+    primaryColor: AppColors.primaryColor,
     scaffoldBackgroundColor: Colors.transparent,
     textTheme: TextTheme(
       titleMedium: GoogleFonts.inter(
