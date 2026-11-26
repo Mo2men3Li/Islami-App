@@ -15,7 +15,6 @@ class OnBoardingScreen extends StatefulWidget {
 }
 
 class _OnBoardingScreenState extends State<OnBoardingScreen> {
-
   Widget buildImage(String assetName) {
     return Image.asset(
       'assets/images/$assetName',

@@ -39,6 +39,7 @@ dependencies:
   introduction_screen: ^5.0.1
   flutter_screenutil_plus: ^2.0.0
   google_fonts: ^9.0.0
+  flutter_svg: ^2.4.0
 
 
 dev_dependencies:
